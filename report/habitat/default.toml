@@ -15,8 +15,8 @@ acceptance = "accept"
 
 [automate]
 enable = true
-url = 'https://roadtrip.workshops.learn.chef.io'
-token = '_fRWgRmieD-9uO8Z5bXHbbt8fF0='
+url = 'https://seattle-roadtrip.workshops.learn.chef.io'
+token = '5EpysodiqFenQjl62dhLYlZNews='
 user = 'admin'
 
 
