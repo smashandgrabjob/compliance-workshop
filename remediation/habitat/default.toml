@@ -1,6 +1,7 @@
 # Use this file to templatize your application's native configuration files.
 # See the docs at https://www.habitat.sh/docs/create-packages-configure/.
 # You can safely delete this file if you don't need it.
+
 interval = 300
 splay = 30
 splay_first_run = 0
@@ -11,6 +12,5 @@ ssl_verify_mode = ":verify_none"
 
 [automate]
 enable = true
-server_url = "https://seattle-roadtrip.workshops.learn.chef.io/data-collector/v0/"
-token = "5EpysodiqFenQjl62dhLYlZNews="
-
+server_url = "https://roadtrip-reston.workshops.learn.chef.io/data-collector/v0/"
+token = "7wFsUpGqSA4c0wd1i54KDan_WnU="
