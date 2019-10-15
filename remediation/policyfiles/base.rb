@@ -15,6 +15,3 @@ default['applications'] = {
   'windows' => {}
 }
 
-
-
-
