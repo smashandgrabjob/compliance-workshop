@@ -11,12 +11,12 @@ log_level = 'warn'
 report_to_stdout = true
 
 [chef_license]
-acceptance = "accept"
+acceptance = "accept-no-persist"
 
 [automate]
 enable = true
-url = 'https://seattle-roadtrip.workshops.learn.chef.io'
-token = '5EpysodiqFenQjl62dhLYlZNews='
-user = 'admin'
+url = 'https://roadtrip-reston.workshops.learn.chef.io'
+token = '7wFsUpGqSA4c0wd1i54KDan_WnU='
+user = 'user7'
 
 
